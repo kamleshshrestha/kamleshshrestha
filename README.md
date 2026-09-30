@@ -93,7 +93,42 @@ looking_for: Internship / Junior AI
 | 📄 **[resume-keyword-gap-checker](https://github.com/kamleshshrestha/resume-keyword-gap-checker)** | Finds keyword gaps between a resume and a job post, powered by Gemini | `Python` `Gemini API` |
 | 🎤 **[interview-question-generator](https://github.com/kamleshshrestha/interview-question-generator)** | Generates tailored interview questions | `Python` |
 | ✉️ **[cover-letter-generator-claude-skill](https://github.com/kamleshshrestha/cover-letter-generator-claude-skill)** | A Claude skill that turns a resume + job description into a cover letter | `Claude Skills` |
-| 🔬 **[research-reproducability](https://github.com/kamleshshrestha/research-reproducability)** | Reproducing published research results | `Jupyter` |
+
+<br/>
+
+## ✦ &nbsp;Academic &amp; research work
+
+<div align="center">
+
+<a href="https://github.com/kamleshshrestha/research-reproducability">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=research-reproducability&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="research-reproducability" />
+</a>
+
+<a href="https://github.com/kamleshshrestha/academic-m504">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=academic-m504&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="academic-m504" />
+</a>
+
+<a href="https://github.com/kamleshshrestha/academic-m505">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=academic-m505&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="academic-m505" />
+</a>
+
+<a href="https://github.com/kamleshshrestha/academic-m507">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=academic-m507&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="academic-m507" />
+</a>
+
+<a href="https://github.com/kamleshshrestha/academic-m508">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=academic-m508&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="academic-m508" />
+</a>
+
+</div>
+
+| Project | What it covers | Stack |
+|:--|:--|:--|
+| 🔬 **[research-reproducability](https://github.com/kamleshshrestha/research-reproducability)** | Re-implementing published ML papers as runnable Colab notebooks to build research intuition (starting with *On Calibration of Modern Neural Networks*) | `Python` `Jupyter` `Colab` |
+| 🤖 **[academic-m504](https://github.com/kamleshshrestha/academic-m504)** | AI and Applications (M504) — coursework notebook | `Python` `Jupyter` |
+| 🧠 **[academic-m505](https://github.com/kamleshshrestha/academic-m505)** | Intro to AI and Machine Learning (M505) — coursework notebook | `Python` `Jupyter` |
+| 📈 **[academic-m507](https://github.com/kamleshshrestha/academic-m507)** | Methods of Prediction (M507) — final assignment | `Python` `Jupyter` |
+| 🗄️ **[academic-m508](https://github.com/kamleshshrestha/academic-m508)** | Big Data Analytics (M508) — coursework notebook and HTML report | `Python` `Jupyter` |
 
 <br/>
 
