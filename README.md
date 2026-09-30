@@ -181,9 +181,10 @@ looking_for: Internship / Junior AI
 
 <div align="center">
 
-| Certification | Issuer | Year | Credential |
-|:--|:--|:--:|:--:|
-| 🏅 *Coming soon* | — | — | — |
+| Certification | Issuer | Issued | Focus |
+|:--|:--|:--:|:--|
+| 🏅 **Supervised Machine Learning: Regression and Classification** | Coursera | Dec 2024 | `Machine Learning` `Linear Regression` |
+| 🏅 **Linear Algebra for Machine Learning and Data Science** | DeepLearning.AI | Oct 2024 | `Linear Algebra` `Machine Learning` |
 
 <sub>More on the way — check back soon.</sub>
 
