@@ -137,38 +137,38 @@ looking_for: Internship / Junior AI
 
 <table>
 <tr>
-<td width="18%" valign="top"><b>20XX – Present</b></td>
+<td width="18%" valign="top"><b>Jan 2025 –<br/>Nov 2025</b></td>
 <td valign="top">
 
-**Role Title** &nbsp;·&nbsp; *Company, City*
+**Data Analyst** &nbsp;·&nbsp; *Orson Infotech Pvt. Ltd. · Kathmandu, Nepal (Hybrid)*
 <br/>
-<sub>What you built or owned — one line of impact.</sub>
+<sub>Full-time role focused on data analysis and data wrangling.</sub>
 
-`Python` `LLMs` `Figma`
+`Data Analysis` `Data Wrangling`
 
 </td>
 </tr>
 <tr>
-<td width="18%" valign="top"><b>20XX – 20XX</b></td>
+<td width="18%" valign="top"><b>Jul 2023 –<br/>Jan 2026</b></td>
 <td valign="top">
 
-**Role Title** &nbsp;·&nbsp; *Company, City*
+**Course Instructor** &nbsp;·&nbsp; *Broadway Infosys · Kathmandu, Nepal (On-site)*
 <br/>
-<sub>What you built or owned — one line of impact.</sub>
+<sub>Taught AI for Everyone with Prompt Engineering, and UI/UX Designing.</sub>
 
-`Design` `UX Research`
+`Prompt Engineering` `UI/UX Design` `Data Analysis`
 
 </td>
 </tr>
 <tr>
-<td width="18%" valign="top"><b>20XX – 20XX</b></td>
+<td width="18%" valign="top"><b>Jul 2021 –<br/>Jul 2023</b></td>
 <td valign="top">
 
-**Role Title** &nbsp;·&nbsp; *Company, City*
+**Co-Founder** &nbsp;·&nbsp; *Be Rojgaar · Budhanilkantha, Nepal*
 <br/>
-<sub>What you built or owned — one line of impact.</sub>
+<sub>Set up management and systems to grow the business into an HR-tech company offering career, employer branding and recruitment solutions.</sub>
 
-`Branding` `UI`
+`HR Tech` `Operational Planning` `Strategy`
 
 </td>
 </tr>
