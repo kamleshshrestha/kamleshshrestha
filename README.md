@@ -1,5 +1,5 @@
 <!-- ═════════════ HERO ═════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:AE2012,50:E5533A,100:F4A582&text=Kamlesh%20Shrestha&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Designer%20turned%20AI%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="Kamlesh Shrestha header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:3D0A05,45:6B120A,75:AE2012,100:E5533A&text=Kamlesh%20Shrestha&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Designer%20turned%20AI%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="Kamlesh Shrestha header" />
 
 <div align="center">
 
@@ -72,17 +72,17 @@ looking_for: Internship / Junior AI
 <div align="center">
 
 <a href="https://github.com/kamleshshrestha/learners-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=learners-app&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=30363D&hide_border=false" alt="learners-app" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=learners-app&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="learners-app" />
 </a>
 <a href="https://github.com/kamleshshrestha/resume-keyword-gap-checker">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=resume-keyword-gap-checker&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=30363D&hide_border=false" alt="resume-keyword-gap-checker" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=resume-keyword-gap-checker&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="resume-keyword-gap-checker" />
 </a>
 
 <a href="https://github.com/kamleshshrestha/interview-question-generator">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=interview-question-generator&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=30363D&hide_border=false" alt="interview-question-generator" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=interview-question-generator&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="interview-question-generator" />
 </a>
 <a href="https://github.com/kamleshshrestha/cover-letter-generator-claude-skill">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=cover-letter-generator-claude-skill&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=30363D&hide_border=false" alt="cover-letter-generator-claude-skill" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=cover-letter-generator-claude-skill&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="cover-letter-generator-claude-skill" />
 </a>
 
 </div>
@@ -189,10 +189,10 @@ I write about design, AI, and what I learn along the way.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamleshshrestha&show_icons=true&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=30363D&hide_border=false" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshshrestha&layout=compact&theme=transparent&title_color=E5533A&text_color=8B949E&border_color=30363D&hide_border=false" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamleshshrestha&show_icons=true&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshshrestha&layout=compact&theme=transparent&title_color=E5533A&text_color=8B949E&border_color=6B120A&hide_border=false" alt="Top languages" />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamleshshrestha&bg_color=0D1117&color=E5533A&line=AE2012&point=F4A582&area=true&area_color=AE2012&hide_border=true" alt="Contribution graph" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamleshshrestha&bg_color=1A0705&color=E5533A&line=AE2012&point=F4A582&area=true&area_color=AE2012&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -213,4 +213,4 @@ I write about design, AI, and what I learn along the way.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F4A582,50:E5533A,100:AE2012&section=footer&reversal=true" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E5533A,40:AE2012,75:6B120A,100:3D0A05&section=footer&reversal=true" alt="footer" />
