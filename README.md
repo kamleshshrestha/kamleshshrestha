@@ -80,11 +80,6 @@ looking_for: Internship / Junior AI
 
 </div>
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🎓 **[learners-app](https://github.com/kamleshshrestha/learners-app)** | A web app that helps students diagnose gaps in their own understanding. | `TypeScript` |
-| 🧭 **[Confident-or-Defer](https://github.com/kamleshshrestha/Confident-or-Defer)** | Fine-tuned DistilBERT that routes banking queries across 77 intents and knows when to answer or hand off to a human. | `Python` `DistilBERT` `academic` |
-
 <br/>
 
 <!-- ═════════════ EXPERIENCE ═════════════ -->
