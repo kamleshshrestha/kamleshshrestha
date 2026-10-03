@@ -71,8 +71,8 @@ looking_for: Internship / Junior AI
 
 <div align="center">
 
-<a href="https://github.com/kamleshshrestha/learners-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=learners-app&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="learners-app" />
+<a href="https://github.com/kamleshshrestha/kapi">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=kapi&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="kapi" />
 </a>
 <a href="https://github.com/kamleshshrestha/Confident-or-Defer">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshshrestha&repo=Confident-or-Defer&theme=transparent&title_color=E5533A&text_color=8B949E&icon_color=F4A582&border_color=6B120A&hide_border=false" alt="Confident-or-Defer" />
