@@ -87,18 +87,6 @@ looking_for: Internship / Junior AI
 
 <table>
 <tr>
-<td width="18%" valign="top"><b>Jan 2025 –<br/>Nov 2025</b></td>
-<td valign="top">
-
-**Data Analyst** &nbsp;·&nbsp; *Orson Infotech Pvt. Ltd. · Kathmandu, Nepal (Hybrid)*
-<br/>
-<sub>Full-time role focused on data analysis and data wrangling.</sub>
-
-`Data Analysis` `Data Wrangling`
-
-</td>
-</tr>
-<tr>
 <td width="18%" valign="top"><b>Jul 2023 –<br/>Jan 2026</b></td>
 <td valign="top">
 
