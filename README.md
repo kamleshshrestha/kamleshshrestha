@@ -7,6 +7,7 @@
 
 <br/>
 
+[![3D Portfolio](https://img.shields.io/badge/3D_Portfolio-E5533A?style=for-the-badge&logo=threedotjs&logoColor=white)](https://kamleshshrestha.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-AE2012?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shresthakamlesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamleshshrestha)
 [![Email](https://img.shields.io/badge/Email-F4A582?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:kamleshshrestha.work@gmail.com)
@@ -181,6 +182,7 @@ I write about design, AI, and what I learn along the way.
 
 <br/>
 
+[![3D Portfolio](https://img.shields.io/badge/-3D_Portfolio-E5533A?style=for-the-badge&logo=threedotjs&logoColor=white)](https://kamleshshrestha.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamleshshrestha)
 [![Email](https://img.shields.io/badge/-Email_me-AE2012?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamleshshrestha.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamleshshrestha)
